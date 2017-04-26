@@ -23,5 +23,5 @@ Check out the [blog post](http://mherman.org/blog/2017/04/26/flask-for-node-deve
 1. Run the server:
 
     ```sh
-    $ python app.py
+    (env) $ python app.py
     ```
